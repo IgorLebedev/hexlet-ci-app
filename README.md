@@ -3,7 +3,7 @@
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
 [![hello-world](https://github.com/IgorLebedev/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/IgorLebedev/hexlet-ci-app/actions/workflows/main.yml)
-[![hello-world](https://github.com/IgorLebedev/hexlet-ci-app/actions/workflows/main.yml/badge.svg)](https://github.com/IgorLebedev/hexlet-ci-app/actions/workflows/main.yml)
+[![Example workflow for Node using Snyk](https://github.com/IgorLebedev/hexlet-ci-app/actions/workflows/snyk.yml/badge.svg)](https://github.com/IgorLebedev/hexlet-ci-app/actions/workflows/snyk.yml)
 
 ## System requirements
 
