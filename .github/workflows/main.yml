@@ -3,10 +3,9 @@ on: push
 jobs:
   build:
     runs-on: ubuntu-latest
-      - run: make setup
-  test-lint:
-    needs: build
-    runs-on: ubuntu-latest
-      - run: make lint
-      - run: make test
+    steps:
+        - uses: actions/checkout@v2
+        - run: make setup
+        - run: make lint
+        - run: make test
 
